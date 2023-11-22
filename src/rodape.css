@@ -1,0 +1,14 @@
+.rodape{
+
+    border: 2px solid #7df5e3;
+    background-color: yellow;
+    border-radius: 10px;
+    text-align: center;
+    padding: 50px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 80%;
+    display: inline-block;
+    margin-left: 10%;
+    margin-right: 10%;
+}
